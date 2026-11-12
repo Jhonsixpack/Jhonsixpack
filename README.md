@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="assets/banner-asa.png" width="100%" alt="Banner de Asa Mitaka">
+  <img src="assets/banner-asa.jpg" width="100%" alt="Banner de Asa Mitaka">
 </div>
 
 <br>
