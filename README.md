@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 
   <br><br>
 
@@ -7,12 +7,10 @@
   <img src="https://img.shields.io/badge/APRENDIZAJE-EN%20PROGRESO-111827?style=for-the-badge&labelColor=111827&color=ec4899">
   <img src="https://img.shields.io/badge/ESTADO-ABIERTO%20A%20APRENDER-111827?style=for-the-badge&labelColor=111827&color=22d3ee">
 
-  <h1>YUCEF <sup>⚡</sup></h1>
+  <h1>Y U C E F</h1>
   <h3>Estudiante de Ciberseguridad · Desarrollador · Entusiasta de la Tecnología</h3>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=9B5DE5&center=true&vCenter=true&width=620&lines=Entendiendo+sistemas.;Encontrando+debilidades.;Construyendo+seguridad.;Rompiendo+cosas+(legalmente)+para+aprender." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=9B5DE5&center=true&vCenter=true&width=620&lines=Entendiendo+sistemas.;Encontrando+debilidades.;Construyendo+seguridad." alt="Typing SVG" />
 
   <p><i>「 Entender sistemas. Encontrar debilidades. Construir seguridad. 」</i></p>
 </div>
@@ -51,15 +49,48 @@ Aprendo mediante **proyectos, laboratorios y práctica técnica**, y documento l
 
 ---
 
-## 02 / ACTUALMENTE
+## 02 / AHORA MISMO
 
-| | |
-|---|---|
-| 🔭 **Trabajando en** | Laboratorios de ciberseguridad y scripts de automatización en Python |
-| 🌱 **Aprendiendo** | OWASP Top 10, hardening de Linux, redes y análisis de tráfico |
-| 🎯 **Practicando** | CTFs y máquinas de práctica (TryHackMe / Hack The Box) |
-| 📝 **Escribiendo** | Notas y write-ups de lo que aprendo |
-| 🤝 **Abierto a** | Colaborar en proyectos, CTFs en equipo y comunidades de seguridad |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/▶%20CONSTRUYENDO-9b5de5?style=for-the-badge&labelColor=111827">
+
+Laboratorios de ciberseguridad y scripts de automatización en Python.
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/▶%20ESTUDIANDO-ec4899?style=for-the-badge&labelColor=111827">
+
+OWASP Top 10, hardening de Linux, redes y análisis de tráfico.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/▶%20PRACTICANDO-22d3ee?style=for-the-badge&labelColor=111827">
+
+CTFs y máquinas de práctica en TryHackMe y Hack The Box.
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/▶%20DISPONIBLE%20PARA-a3e635?style=for-the-badge&labelColor=111827">
+
+Colaborar en proyectos, CTFs en equipo y comunidades de seguridad.
+
+</td>
+</tr>
+</table>
+
+```bash
+$ whoami && cat now.txt
+yucef
+> escribiendo write-ups de lo que aprendo, un lab a la vez_
+```
 
 ---
 
@@ -82,11 +113,11 @@ Aprendo mediante **proyectos, laboratorios y práctica técnica**, y documento l
 **HERRAMIENTAS DE SEGURIDAD**
 
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white">
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge">
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white">
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge">
 
 </div>
 
@@ -133,17 +164,32 @@ Aprendo mediante **proyectos, laboratorios y práctica técnica**, y documento l
 
 ## 05 / PROYECTOS Y LABORATORIOS
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Jhonsixpack/python-learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonsixpack&repo=python-learning&theme=tokyonight&hide_border=true" />
-</a>
+### ◈ [python-learning](https://github.com/Jhonsixpack/python-learning)
 
-<a href="https://github.com/Jhonsixpack/cybersecurity-labs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonsixpack&repo=cybersecurity-labs&theme=tokyonight&hide_border=true" />
-</a>
+Ejercicios, scripts y práctica de Python.
 
-</div>
+<img src="https://img.shields.io/github/languages/top/Jhonsixpack/python-learning?style=flat-square&labelColor=111827&color=9b5de5">
+<img src="https://img.shields.io/github/last-commit/Jhonsixpack/python-learning?style=flat-square&labelColor=111827&color=ec4899">
+<img src="https://img.shields.io/github/stars/Jhonsixpack/python-learning?style=flat-square&labelColor=111827&color=22d3ee">
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ [cybersecurity-labs](https://github.com/Jhonsixpack/cybersecurity-labs)
+
+Laboratorios y prácticas de ciberseguridad.
+
+<img src="https://img.shields.io/github/languages/top/Jhonsixpack/cybersecurity-labs?style=flat-square&labelColor=111827&color=9b5de5">
+<img src="https://img.shields.io/github/last-commit/Jhonsixpack/cybersecurity-labs?style=flat-square&labelColor=111827&color=ec4899">
+<img src="https://img.shields.io/github/stars/Jhonsixpack/cybersecurity-labs?style=flat-square&labelColor=111827&color=22d3ee">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -153,40 +199,31 @@ Aprendo mediante **proyectos, laboratorios y práctica técnica**, y documento l
 [██████████░░░░░░░░░░]  Fundamentos de Python y Linux ........ en progreso
 [██████░░░░░░░░░░░░░░]  Seguridad web (OWASP Top 10) ......... en progreso
 [███░░░░░░░░░░░░░░░░░]  CTFs y laboratorios de pentesting .... en progreso
-[░░░░░░░░░░░░░░░░░░░░]  Seguridad de redes y análisis de tráfico . siguiente
-[░░░░░░░░░░░░░░░░░░░░]  Fundamentos de seguridad en la nube .. planeado
+[░░░░░░░░░░░░░░░░░░░░]  Seguridad de redes y tráfico ......... siguiente
+[░░░░░░░░░░░░░░░░░░░░]  Seguridad en la nube (bases) ......... planeado
 [░░░░░░░░░░░░░░░░░░░░]  Active Directory y seguridad Windows . planeado
-[░░░░░░░░░░░░░░░░░░░░]  Automatización de seguridad con Python . planeado
+[░░░░░░░░░░░░░░░░░░░░]  Automatización de seguridad .......... planeado
 ```
 
-### 🎓 Metas de certificación
-
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square&logo=comptia&logoColor=white">
+<img src="https://img.shields.io/badge/METAS%20DE%20CERTIFICACIÓN-111827?style=flat-square&labelColor=111827&color=9b5de5">
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square">
 <img src="https://img.shields.io/badge/eJPT-Pentester%20Junior-9b5de5?style=flat-square">
-<img src="https://img.shields.io/badge/Google-Certificado%20de%20Ciberseguridad-4285F4?style=flat-square&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Google-Ciberseguridad-4285F4?style=flat-square">
 
-> En Proceso...
+> *En proceso...*
 
 ---
 
-## 07 / ESTADÍSTICAS DE GITHUB
+## 07 / GITHUB
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jhonsixpack&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonsixpack&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/github/followers/Jhonsixpack?style=for-the-badge&labelColor=111827&color=9b5de5">
+<img src="https://img.shields.io/badge/Jhonsixpack-GitHub-111827?style=for-the-badge&logo=github&labelColor=111827&color=ec4899">
 
 <br><br>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=Jhonsixpack&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jhonsixpack&theme=tokyo-night&hide_border=true&area=true" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jhonsixpack&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -224,7 +261,6 @@ Aprendo mediante **proyectos, laboratorios y práctica técnica**, y documento l
 
 <img src="https://img.shields.io/badge/HECHO%20CON-CURIOSIDAD-9b5de5?style=flat-square">
 <img src="https://img.shields.io/badge/IMPULSADO%20POR-CAF%C3%89-ec4899?style=flat-square">
-<img src="https://komarev.com/ghpvc/?username=Jhonsixpack&label=VISITAS%20AL%20PERFIL&color=9b5de5&style=flat-square" alt="Visitas al perfil">
 
 <sub>Gracias por visitar mi perfil.</sub>
 
