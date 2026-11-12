@@ -1,89 +1,142 @@
  <div align="center">
-  <img src="assets/banner-asa.jpg" width="100%" alt="Banner de Asa Mitaka">
-</div>
+  <img src="assets/banner-asa.jpg" width="100%" alt="Asa Mitaka - Cyber Anime Banner">
 
-<br>
+  <br>
 
-<div align="center">
-  <h1>¡Hola! Soy Yucef 👋</h1>
-  <h3>Cybersecurity Student | Programmer | Tech Enthusiast</h3>
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-ff4b8b?style=for-the-badge">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-8b5cf6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PROFILE-CYBERSECURITY-111827?style=for-the-badge&labelColor=111827&color=9b5de5">
+  <img src="https://img.shields.io/badge/LEARNING-IN%20PROGRESS-111827?style=for-the-badge&labelColor=111827&color=ec4899">
+
+  <h1>YUCEF <sup>⚡</sup></h1>
+  <h3>Cybersecurity Student · Developer · Technology Enthusiast</h3>
+
+  <p>
+    <i>「 Understanding systems. Finding weaknesses. Building security. 」</i>
+  </p>
 </div>
 
 <br>
 
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="68%" valign="middle">
 
-## Sobre mí
+## 01 / WHO AM I?
 
-🎓 Estudiante de Ingeniería de Ciberseguridad.
+```text
+┌──[ yucef@cyber-profile ]──
+│
+├─ Role      : Cybersecurity Student
+├─ Focus     : Ethical Hacking
+├─ Learning  : Python & Linux
+├─ Interest  : Web Security
+└─ Status    : Always learning...
+```
 
-💻 Interesado en programación y desarrollo de software.
+Soy estudiante de Ingeniería de Ciberseguridad, interesado en comprender cómo funcionan los sistemas, identificar vulnerabilidades y aprender a proteger infraestructuras digitales.
 
-🔐 Aprendiendo sobre seguridad informática y Ethical Hacking.
-
-🐧 Explorando Linux, redes y herramientas de ciberseguridad.
-
-🚀 Construyendo proyectos y laboratorios prácticos.
-
-**Objetivo:** desarrollar habilidades para proteger, analizar y auditar sistemas informáticos.
+Me gusta aprender mediante proyectos, laboratorios y prácticas técnicas.
 
 </td>
-<td width="35%" align="center" valign="middle">
-  <img src="assets/asa.gif" width="220" alt="Asa Mitaka animada">
+<td width="32%" align="center" valign="middle">
+  <img src="assets/asa.gif" width="220" alt="Asa Mitaka GIF">
   <br>
-  <sub>Keep learning. Keep building.</sub>
+  <sub><b>OBSERVE · LEARN · SECURE</b></sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🖥️ Tecnologías y herramientas
+## 02 / TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,linux,bash,git,github,vscode,mysql,postgres&theme=dark" />
+**PROGRAMMING**
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark">
+
+<br>
+
+**SYSTEMS & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,mysql,postgres&theme=dark">
 
 </div>
 
-## 🔐 Áreas de interés
+---
 
-- Ethical Hacking y Pentesting.
-- Seguridad de aplicaciones web.
-- Administración de sistemas Linux.
-- Redes y protocolos.
-- Programación y automatización.
-- Análisis de vulnerabilidades.
+## 03 / AREAS OF INTEREST
 
-## 📂 Mis proyectos
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Repositorio | Descripción |
-|---|---|
-| [Python Learning](https://github.com/Jhonsixpack/python-learning) | Ejercicios y aprendizaje de Python. |
-| [Cybersecurity Labs](https://github.com/Jhonsixpack/cybersecurity-labs) | Laboratorios y prácticas de ciberseguridad. |
+### ◈ CYBERSECURITY
 
-## 📊 GitHub Statistics
+- Ethical Hacking
+- Web Application Security
+- Vulnerability Analysis
+- Pentesting Labs
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ DEVELOPMENT
+
+- Python Programming
+- Java Development
+- Linux Administration
+- Database Management
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 / PROJECTS & LABS
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jhonsixpack&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonsixpack&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+
+<a href="https://github.com/Jhonsixpack/python-learning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonsixpack&repo=python-learning&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Jhonsixpack/cybersecurity-labs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonsixpack&repo=cybersecurity-labs&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
 
+---
+
+## 05 / GITHUB ANALYTICS
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jhonsixpack&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jhonsixpack&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonsixpack&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Jhonsixpack&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
 <div align="center">
 
-### 「 Keep learning. Keep building. Keep securing. 」
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://img.shields.io/badge/Made%20with-curiosity-ff4b8b?style=flat-square">
-<img src="https://img.shields.io/badge/Powered%20by-coffee-8b5cf6?style=flat-square">
+**「 KEEP LEARNING. KEEP BUILDING. KEEP SECURING. 」**
+
+<img src="https://img.shields.io/badge/MADE%20WITH-CURIOSITY-9b5de5?style=flat-square">
+<img src="https://img.shields.io/badge/POWERED%20BY-COFFEE-ec4899?style=flat-square">
+
+<sub>Thanks for visiting my profile.</sub>
+
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
