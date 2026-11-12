@@ -35,7 +35,6 @@ Me interesa aprender cómo funcionan los sistemas, desarrollar programas y compr
 |---|---|
 | Programación | Python |
 | Sistemas operativos | Linux, Windows |
-| Control de versiones | Git, GitHub |
 | Redes | Nmap, Wireshark |
 | Bases de datos | SQL |
 | Ciberseguridad | Ethical Hacking |
