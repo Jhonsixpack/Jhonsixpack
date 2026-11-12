@@ -60,10 +60,6 @@ Espacio donde documento mis laboratorios, herramientas, prácticas y conocimient
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhonsixpack&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonsixpack&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jhonsixpack&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
