@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner-asa.jpg" width="100%" alt="Asa Mitaka - Banner Cyber Anime">
+
 
   <br><br>
 
@@ -165,7 +165,7 @@ Aprendo mediante **proyectos, laboratorios y práctica técnica**, y documento l
 <img src="https://img.shields.io/badge/eJPT-Pentester%20Junior-9b5de5?style=flat-square">
 <img src="https://img.shields.io/badge/Google-Certificado%20de%20Ciberseguridad-4285F4?style=flat-square&logo=google&logoColor=white">
 
-> *Ajusta esta sección a las certificaciones que realmente quieras perseguir.*
+> En Proceso...
 
 ---
 
